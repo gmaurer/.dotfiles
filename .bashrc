@@ -2,7 +2,7 @@
 #                                   #
 #         Gabes Bashrc file         #
 #   -Adding more as I learn more-   #
-#                                   #
+#       -link with soft link-       #
 #####################################
 
 
